@@ -1,0 +1,4 @@
+
+//bug 1 line four has const employee should be const employees data.js
+//bug 2 checkedEmployees not returned helper.js
+//bug 3 variable i used twice in for loops - change 2nd loop to j helper.js

@@ -9,6 +9,7 @@ const checkName = (employees, bonus) => {
             } 
         }
     }
+    return checkedEmployees;
 };
 
 module.exports = {

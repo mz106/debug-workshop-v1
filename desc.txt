@@ -1,0 +1,30 @@
+
+Debug Workshop V1
+
+Introduction
+
+Given that software development is essentially an exercise in problem 
+solving, this is the first of a series of workshops concerning a methodological 
+approach to solving problems encountered whilst developing software.
+This is presented in the form of a simple (yet hopefully challenging) exercise 
+in debugging, aimed at Masters students circa week three. 
+
+
+Aim
+
+The purpose is to teach and give practice in problem-solving methods 
+and to familarise students with the error stack and debugging techniques, 
+and instill a sense of teamwork.
+
+Method
+
+After a brief introduction from the instructor, students will be 
+placed into teams in which they shall run the program and read the error
+stack. From here, they shall atempt to resolve the first bugs. An 
+instructor(s) will be on hand to offer guidance, but NOT to resolve the
+issue for the students. 
+
+Once the teams have a fully working program, a retro will be help, 
+concerning both the techniques that they have used, and the quality
+of the workshop itself. 
+
